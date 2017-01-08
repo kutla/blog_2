@@ -8,3 +8,4 @@
 
 $app = new Core\App(new Core\Request($_GET, $_POST, $_SERVER));
 $app->go();
+?>
