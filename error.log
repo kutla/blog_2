@@ -1,0 +1,14 @@
+42S02-|-1146-|-Table 'blog_1.articles' doesn't exist
+42S02-|-1146-|-Table 'blog_1.articles' doesn't exist
+42S02-|-1146-|-Table 'blog_1.articles' doesn't exist
+42S02-|-1146-|-Table 'php1.news' doesn't exist
+42S02-|-1146-|-Table 'php1.news' doesn't exist
+42S02-|-1146-|-Table 'php1.news' doesn't exist
+HY093-|--|-
+HY093-|--|-
+HY093-|--|-
+42000-|-1064-|-You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(title='Новость №1',content='!!!!!!Пришло время вновь ' at line 1
+42000-|-1064-|-You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(title='Новость №1',content='!!!!!!Пришло время вновь ' at line 1
+42000-|-1064-|-You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= 1' at line 1
+42000-|-1064-|-You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1''' at line 1
+42000-|-1064-|-You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1''' at line 1
