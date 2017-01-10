@@ -6,7 +6,7 @@ php_flag magic_quotes_runtime 0
 RewriteEngine On 
 
 # Installation directory
-RewriteBase /blog_2/
+RewriteBase /
 
 # Allow any files or directories that exist to be displayed directly
 RewriteCond %{REQUEST_FILENAME} !-f
