@@ -41,27 +41,27 @@ class App
 	private function routs()
 	{
 		return [
-			'/blog_2/' => [
+			'/' => [
 				'controller' => 'Controller\ArticleController',
 				'action' => 'indexAction',
 			],
-			'/blog_2/article' => [
+			'/article' => [
 				'controller' => 'Controller\ArticleController',
 				'action' => 'oneAction',
 			],
-			'/blog_2/add_article' => [
+			'/add_article' => [
 				'controller' => 'Controller\ArticleController',
 				'action' => 'addAction',
 			],
-			'/blog_2/edit_article' => [
+			'/edit_article' => [
 				'controller' => 'Controller\ArticleController',
 				'action' => 'editAction',
 			],
-			'/blog_2/login' => [
+			'/login' => [
 				'controller' => 'Controller\ArticleController',
 				'action' => 'loginAction',
 			],
-			'/blog_2/delete_article' => [
+			'/delete_article' => [
 				'controller' => 'Controller\ArticleController',
 				'action' => 'delAction',
 			],

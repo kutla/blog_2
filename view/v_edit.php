@@ -16,6 +16,6 @@
 			<?=$error?><br>
 		<?endforeach;?>
 	<?endif;?>
-	<a href="/blog_2/">Назад</a>	
+	<a href="/">Назад</a>	
 </body>
 </html>
