@@ -14,13 +14,13 @@
   <div id="sidebar">
     <div class="menu">
       <ul>
-        <li><a href="/blog_2/">На главную</a></li>
+        <li><a href="/">На главную</a></li>
         
         <?if($auth):?>
-         <li><a href="/blog_2/add_article">Добавить новость</a></li>
+         <li><a href="/add_article">Добавить новость</a></li>
         <?endif?>
         
-        <li><a href="/blog_2/login"><?=($auth ? 'Выйти':'Войти')?></a></li>
+        <li><a href="/login"><?=($auth ? 'Выйти':'Войти')?></a></li>
       </ul>
     </div>
   </div>
