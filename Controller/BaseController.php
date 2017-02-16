@@ -3,7 +3,6 @@
 namespace Controller;
 
 use Core\Users;
-use Core\Tmp;
 use Core\Request;
 
 class BaseController
