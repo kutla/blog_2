@@ -31,7 +31,7 @@ class BaseController
 
 	public function render()
 	{
-		echo Tmp::template('view/v_main.php', [
+		echo $this->tmpGenerate('view/v_main.php', [
 			'title' => $this->title, 
 			'content' => $this->content, 
 			'auth' => $this->auth
